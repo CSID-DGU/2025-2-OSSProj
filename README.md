@@ -1,3 +1,10 @@
 # 2025-2-OSSProj
-# 20250930
-# Review by Eunchae Park
+
+# MLAC
+
+Machine Learning
+
+Written by Eunchae Park 
+
+Date: 2025. 10. 2. 
+헤헤
