@@ -6,5 +6,4 @@ Machine Learning
 
 Written by Eunchae Park 
 
-Date: 2025. 10. 2. 
-헤헤
+Date 10.2
